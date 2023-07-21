@@ -1,0 +1,4 @@
+build/
+dist/
+my_MITgcmutils.egg-info/
+my_MITgcmutils/__pycache__/
